@@ -4,4 +4,4 @@
 - 📚 Major in Data Science
 - 💻 Project I've done:
   1. NYC-Yellow-Taxi-Demand-Analysis (individual)
-  2. Selecting the best 100 merchants for Buy Now, Pay Later company
+  2. Selecting the best 100 merchants for Buy Now, Pay Later company (collaborative)
